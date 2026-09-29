@@ -242,7 +242,7 @@ techflow-customer-support-agent/
 ├── test_connection.py
 ├── requirements.txt
 ├── .gitignore
-├── .env
+├── .env.example
 └── README.md
 
 > `.env` contains private API credentials and is excluded from Git using `.gitignore`.
