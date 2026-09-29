@@ -330,10 +330,10 @@ This project was developed by a team of six members as an AI customer support pr
 
 ### Team Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
-- Member 5
-- Member 6
+- TEJOPRANAV Daruri
+- Vivek Vattipalli
+- Shiva ganesh Ramasani
+- Aakash varma Dandu
+- Raghavendra Keshaboina
+- Ram charan Goda
 
